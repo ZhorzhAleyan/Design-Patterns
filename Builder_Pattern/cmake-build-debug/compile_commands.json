@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/main.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/main.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/main.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/House.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/House.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/House.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/House.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/WoodenHouseBuilder.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/WoodenHouseBuilder.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/WoodenHouseBuilder.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/WoodenHouseBuilder.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/GlassHouseBuilder.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/GlassHouseBuilder.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/GlassHouseBuilder.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/GlassHouseBuilder.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/Engineer.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/Engineer.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/Engineer.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/Engineer.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/ClassicBuilderDemo.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/ClassicBuilderDemo.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/ClassicBuilderDemo.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/ClassicBuilderDemo.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/Pizza.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/Pizza.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/Pizza.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/Pizza.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Builder_Pattern.dir/FluentBuilderDemo.cpp.o -c /Users/zaleyan/CLionProjects/Builder_Pattern/FluentBuilderDemo.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Builder_Pattern/FluentBuilderDemo.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Builder_Pattern/cmake-build-debug/CMakeFiles/Builder_Pattern.dir/FluentBuilderDemo.cpp.o"
+}
+]
