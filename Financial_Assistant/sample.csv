@@ -1,0 +1,14 @@
+date,category,amount,note
+2026-04-02,Food,53.10,Groceries
+2026-04-08,Transport,18.50,Bus pass
+2026-04-15,Leisure,45.00,Books
+2026-04-22,Food,27.30,Dinner out
+2026-04-30,Rent,600.00,April rent
+2026-05-03,Utilities,95.40,Electricity
+2026-05-11,Food,61.00,Groceries
+2026-05-19,Transport,30.00,Fuel
+2026-05-27,Leisure,120.00,"Weekend trip, hotel"
+2026-06-01,Rent,600.00,June rent
+bad-date,Food,12.00,This row is skipped (invalid date)
+2026-06-05,Food,-8.00,This row is skipped (negative amount)
+2026-06-10,Food,abc,This row is skipped (non-numeric amount)

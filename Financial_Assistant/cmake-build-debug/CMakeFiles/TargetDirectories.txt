@@ -1,0 +1,5 @@
+/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant.dir
+/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant_autogen_timestamp_deps.dir
+/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant_autogen.dir

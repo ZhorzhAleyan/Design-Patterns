@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtCharts.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtOpenGLWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSql.framework/Headers -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Financial_Assistant.dir/Financial_Assistant_autogen/mocs_compilation.cpp.o -c /Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/mocs_compilation.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/mocs_compilation.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant.dir/Financial_Assistant_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtCharts.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtOpenGLWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSql.framework/Headers -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Financial_Assistant.dir/main.cpp.o -c /Users/zaleyan/CLionProjects/Financial_Assistant/main.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Financial_Assistant/main.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtCharts.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtOpenGLWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSql.framework/Headers -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Financial_Assistant.dir/ExpenseRepository.cpp.o -c /Users/zaleyan/CLionProjects/Financial_Assistant/ExpenseRepository.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Financial_Assistant/ExpenseRepository.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant.dir/ExpenseRepository.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtCharts.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtOpenGLWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSql.framework/Headers -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Financial_Assistant.dir/ChartDataBuilder.cpp.o -c /Users/zaleyan/CLionProjects/Financial_Assistant/ChartDataBuilder.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Financial_Assistant/ChartDataBuilder.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant.dir/ChartDataBuilder.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtCharts.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtOpenGLWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSql.framework/Headers -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Financial_Assistant.dir/ChartView.cpp.o -c /Users/zaleyan/CLionProjects/Financial_Assistant/ChartView.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Financial_Assistant/ChartView.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant.dir/ChartView.cpp.o"
+},
+{
+  "directory": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/Financial_Assistant_autogen/include -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -isystem /opt/homebrew/lib/QtCharts.framework/Headers -isystem /opt/homebrew/lib/QtOpenGL.framework/Headers -isystem /opt/homebrew/lib/QtOpenGLWidgets.framework/Headers -isystem /opt/homebrew/lib/QtSql.framework/Headers -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Financial_Assistant.dir/AddExpenseDialog.cpp.o -c /Users/zaleyan/CLionProjects/Financial_Assistant/AddExpenseDialog.cpp",
+  "file": "/Users/zaleyan/CLionProjects/Financial_Assistant/AddExpenseDialog.cpp",
+  "output": "/Users/zaleyan/CLionProjects/Financial_Assistant/cmake-build-debug/CMakeFiles/Financial_Assistant.dir/AddExpenseDialog.cpp.o"
+}
+]
